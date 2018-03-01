@@ -1,5 +1,6 @@
 # Scheduling
 CSCI-202 Operating System Lab 2
+## How to run this program?
 1, Please have all the input files in the same directory as the program Linker.java that will be tested.
 
 2, Please change to the directory where Linker.java is currently at.
