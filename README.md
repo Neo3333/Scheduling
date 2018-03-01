@@ -1,15 +1,17 @@
 # Scheduling
 CSCI-202 Operating System Lab 2
 ## How to run this program?
-1, Please have all the input files in the same directory as the program Linker.java that will be tested.
+1, Please have all the input files in the same directory as the program Scheduler.java and Process.java that will be tested.
 
-2, Please change to the directory where Linker.java is currently at.
+2, Please change to the directory where Scheduler.java is currently at.
 
-3, Please compile the program by typing "javac Linker.java". After successfully complile Linker.java, type "java Linker" to run.
+3, Please compile the program by typing "javac Scheduler.java".
 
-4, The program will ask you for the name of the input file, type the name of the input file which is in the current directory.
+4, Run the program by typing "java Scheduler <input-filename>".
 
-5, The terminal will show you the answer.
+5, If you need the more detailed output, type "java Scheduler verbose <input-filename>.
+
+6. Select the Sceduling Algorithm you want to simulate, follow the instructions of the program.
 
 Author: Jiabei Han
 
